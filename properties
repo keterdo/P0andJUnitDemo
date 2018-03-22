@@ -1,0 +1,59 @@
+#################
+# Env Configure #
+#################
+Mobike.OS = android
+Mobike.DefaultDriver = Appium
+mobike.run.retry = 3
+Adb.path=D:\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\adb.exe
+traffic=false
+#Phones.udid = MSM8974,48d188d2
+isFuzzing=false
+##############
+# MonkeyTalk #
+##############
+#MT.Path = 
+#IOS.RandomAppName = "4E99BE05-8477-4E37-AC35-01C1211AB4C2"
+
+
+
+##############
+# Appium #
+##############
+#Appium.DriverCount = 2
+Appium.cmdPath=C:/Users/Administrator/AppData/Roaming/npm/appium.cmd
+Appium.PlatformName=Android
+Appium.PlatformVersion=6.0
+Appium.DeviceName=AndroidTestPhone
+Appium.App=com.mobike.mobikeapp
+Appium.AppPackage=com.mobike.mobikeapp
+Appium.AppActivity=.MainActivity
+#Appium.appWaitActivity=.MainFrameActivity
+Appium.noSign=true
+Appium.NewCommandTimeout=600
+Appium.AutomationName=appium
+
+##############
+#  Selenium  #
+##############
+selenium.driver=chrome
+
+########################
+# ReportMail Configure #
+########################
+Mail.SendMail=false
+Mail.ServerHost=smtp.mobike.com
+Mail.ServerPort=587
+Mail.FromAddress=duzhe@mobike.com
+Mail.ToAddress=duzhe@mobike.com
+Mail.UserName=duzhe
+Mail.Password=Keterpass_001
+Mail.Validate=true
+Mail.Subject="MobikeMall Automation Testing By Appium"
+Mail.ContentType=html
+Mail.Content=/Users/Duzhe/Desktop/EclipseWorkSpace/MobileAutoTest/TEST_REPORT_TEMPLATE.html
+Mail.AttachPath=/Users/Duzhe/Desktop/EclipseWorkSpace/MobileAutoTest/output.html
+Mail.AttachName=TEMPFILE
+Mail.ReportPath=/TEST_REPORT_TEMPLATE.html
+
+#http://download.eclipse.org/technology/m2e/releases
+#mvn install:install-file -DgroupId=com.gorillalogic.monkeytalk -DartifactId=monkeytalk-java -Dversion=2.0.5 -Dpackaging=jar -Dfile=/Users/jd_mobile_autotest/MobileAutoTest/lib/monkeytalk-java-2.0.5-all-in-one.jar
