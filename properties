@@ -1,7 +1,7 @@
 #################
 # Env Configure #
 #################
-Mobike.OS = android
+Qunar.OS = android
 Mobike.DefaultDriver = Appium
 mobike.run.retry = 3
 Adb.path=D:\adt-bundle-windows-x86_64-20140702\sdk\platform-tools\adb.exe

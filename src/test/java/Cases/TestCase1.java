@@ -1,6 +1,7 @@
 package Cases;
 
 import Case.BaseCase;
+import Page.AndroidPages.DemoPage;
 import org.junit.Test;
 
 /**
@@ -8,11 +9,14 @@ import org.junit.Test;
  *
  * @Description:
  */
-public class TestCase1 extends BaseCase{
+public class TestCase1 extends BaseCase {
 
+    /**
+     * PO + 分层后的demo写法
+     */
     @Test
-    public void test1(){
-//        System.out.println("start case");
+    public void test1() {
         operations.mobikeOperation.clickJNYJ();
     }
+
 }

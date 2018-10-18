@@ -16,7 +16,7 @@
             <plugin>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <configuration>
-                    <groups>DemoCategory.SmokeTests,DemoCategory.AllTests</groups>
+                    <groups>AnyCategory.SmokeTests,AnyCategory.AllTests</groups>
                 </configuration>
             </plugin>
             <plugin>
@@ -66,6 +66,13 @@
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations-java5</artifactId>
             <version>15.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.2</version>
+            <scope>provided</scope>
         </dependency>
 
 

@@ -1,8 +1,8 @@
 
 import Cases.ParameterizedDemo;
 import Cases.DemoCase3;
-import DemoCategory.AllTests;
-import DemoCategory.SmokeTests;
+import AnyCategory.AllTests;
+import AnyCategory.SmokeTests;
 import org.junit.experimental.categories.Categories;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

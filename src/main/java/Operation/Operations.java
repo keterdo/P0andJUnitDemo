@@ -16,7 +16,6 @@ public class Operations {
     public static MobikeOperation mobikeOperation;
 
     public static Operations getInstance(){
-//        System.out.println("Opreation instance");
         if(operations == null){
             operations = new Operations();
         }
@@ -24,12 +23,9 @@ public class Operations {
     }
 
 
-
     public static void initOperations(){
-//        System.out.println("in initOperations");
         demoOperation = new DemoOperation();
         mobikeOperation = new MobikeOperation();
-//        System.out.println("out initOperations");
     }
 
 }

@@ -1,5 +1,7 @@
 package Cases;
 
+import Case.BaseCase;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
@@ -8,12 +10,15 @@ import org.junit.experimental.categories.Category;
  *
  * @Description:
  */
-public class DemoCase3 {
+public class DemoCase3 extends BaseCase {
+
+
 
     @Test
-    @Category(DemoCategory.SmokeTests.class)
+    @Category(AnyCategory.SmokeTests.class)
     public void case2(){
-
+        operations.demoOperation.operationTest("");
+        Assert.assertEquals(operations.demoOperation.getResult(1),"");
     }
 
 }

@@ -1,9 +1,7 @@
 package Cases;
 
 import Case.BaseCase;
-import data.ParameterDemo;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.experimental.categories.Category;
 import org.junit.runner.RunWith;
@@ -41,10 +39,9 @@ public class ParameterizedDemo extends BaseCase{ //
     }
 
     /**
-     * Case Start
+     *
      */
-
-    @Category(DemoCategory.AllTests.class)
+    @Category(AnyCategory.AllTests.class)
     @Test
     public void case1(){
         operations.demoOperation.operationTest(this.num);
@@ -52,12 +49,5 @@ public class ParameterizedDemo extends BaseCase{ //
         Assert.assertEquals(acNum,result);
     }
 
-//    ParameterDemo data = new ParameterDemo();
-//
-//    @Test
-//    public void case2(){
-//        System.out.println("----------------------------");
-//        Assert.assertEquals(data.num,data.acNum); //just a test
-//    }
 
 }

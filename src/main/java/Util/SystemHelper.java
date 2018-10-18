@@ -20,7 +20,7 @@ public class SystemHelper {
 	}
 
 	public static boolean isAndroid() {
-		String os = System.getProperty("Mobike.OS");
+		String os = System.getProperty("Qunar.OS");
 		if (os.equalsIgnoreCase("android"))
 			return true;
 		else
@@ -28,7 +28,7 @@ public class SystemHelper {
 	}
 
 	public static boolean isIOS() {
-		String os = System.getProperty("Mobike.OS");
+		String os = System.getProperty("Qunar.OS");
 		if (os.equalsIgnoreCase("ios"))
 			return true;
 		else

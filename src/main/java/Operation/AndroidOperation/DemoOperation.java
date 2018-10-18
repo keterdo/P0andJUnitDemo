@@ -15,8 +15,8 @@ public class DemoOperation extends BaseOperation {
      * @param num
      */
     public void operationTest(String num){
-        pages.demoPage.getTextBox().sendKeys(num);
-        pages.demoPage.getCommit().click();
+        pages.demoPage.textBox.sendKeys(num);
+        pages.demoPage.commit.click();
     }
 
     /**
@@ -25,7 +25,7 @@ public class DemoOperation extends BaseOperation {
      * @return
      */
     public String getResult(int index){
-        return pages.demoPage.getLabels().get(index).getText();
+        return pages.demoPage.labels.get(index).getText();
     }
 
 }

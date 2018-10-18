@@ -1,6 +1,7 @@
 package Operation.AndroidOperation;
 
 import Operation.BaseOperation;
+import com.google.common.collect.Lists;
 
 /**
  * Created by duzhe on 2018/3/21.
@@ -10,7 +11,6 @@ import Operation.BaseOperation;
 public class MobikeOperation extends BaseOperation{
 
     public void clickJNYJ(){
-//        System.out.println("Doing operation");
         pages.mobikePage.jnyj.click();
     }
 }

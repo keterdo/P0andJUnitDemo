@@ -29,7 +29,6 @@ public class DriverFactory {
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
-        // 设置参数
         capabilities.setCapability("platformName",
                 "Android");
         capabilities.setCapability("platformVersion",
@@ -42,34 +41,17 @@ public class DriverFactory {
                 "com.mobike.mobikeapp");
         capabilities.setCapability("appActivity",
                 ".SplashActivity");  //.MainActivity
-
-        capabilities.setCapability("noSign",
-                "true");
-        capabilities.setCapability("unicodeKeyboard",
-                "true");
-        capabilities.setCapability("newCommandTimeout",
-                "600");
-        capabilities.setCapability("noReset",
-                true);
-        capabilities.setCapability("fullReset",
-                false);
-        capabilities.setCapability("clearSystemFiles",
-                false);
-
         try {
             //初始化驱动
             driver = new AndroidDriver(new URL(
                     "http://127.0.0.1:4723/wd/hub"), capabilities);
-
         } catch (MalformedURLException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
         driver.manage().timeouts()
                 .implicitlyWait(15, TimeUnit.SECONDS);
-
     }
-
 
     /**
      * 生成iOSdriver

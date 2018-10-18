@@ -1,4 +1,4 @@
-package DemoCategory;
+package AnyCategory;
 
 import org.junit.experimental.categories.Category;
 
@@ -7,6 +7,6 @@ import org.junit.experimental.categories.Category;
  *
  * @Description:
  */
-public interface AllTests extends Category{
+public interface SmokeTests extends Category{
 
 }
