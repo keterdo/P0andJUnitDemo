@@ -32,38 +32,17 @@ public class DemoPage extends BasePage {
     @AndroidFindBy(id = "androidElement")
     public AndroidElement androidElement;
 
-    @iOSFindBy(className = "iosElement")
-    public IOSElement iosElement;
-
-    @iOSFindAll({@iOSBy(tagName = "list")})
-    public List<MobileElement> lMobileElement;
-
-
+//    @iOSFindBy(className = "iosElement")
+//    public IOSElement iosElement;
+//
+//    @iOSFindAll({@iOSBy(tagName = "list")})
+//    public List<MobileElement> lMobileElement;
 
 
 
 
-    public void test(){
-
-        mobileElement = (MobileElement) driver.findElementById("mobile");
-
-        androidElement = (AndroidElement) driver.findElementByName("安卓");
-
-        iosElement = (IOSElement) driver.findElementByXPath("//home/*path[1]/view");
-
-        lMobileElement = (List<MobileElement>)driver.findElementsByTagName("mobiles");
-
-
-        mobileElement.click();
-
-        androidElement.getText();
-
-        iosElement.sendKeys("123");
-
-        lMobileElement.get(0).isSelected();
 
 
 
-    }
 
 }

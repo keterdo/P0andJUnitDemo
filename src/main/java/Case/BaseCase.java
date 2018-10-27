@@ -30,11 +30,11 @@ public class BaseCase {
         operations = Operations.getInstance();
         InitProperties.init();
 
-        DriverFactory.getDriver();
-        DriverFactory.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        TimeOutDuration timeOutDuration = new TimeOutDuration(10, TimeUnit.SECONDS);
+//        DriverFactory.getDriver();
+//        DriverFactory.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        TimeOutDuration timeOutDuration = new TimeOutDuration(10, TimeUnit.SECONDS);
 
-        Pages.getInstance().initPages(DriverFactory.driver,timeOutDuration);
+        Pages.getInstance().initPages();
 
         Operations.getInstance().initOperations();
     }

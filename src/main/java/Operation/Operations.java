@@ -9,7 +9,7 @@ import Operation.AndroidOperation.NewDemoOperation;
  *
  * @Description:初始化所有opreations
  */
-public class Operations {
+public class Operations extends BaseOperation {
 
     private static Operations operations;
 

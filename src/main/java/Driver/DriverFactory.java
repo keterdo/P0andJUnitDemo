@@ -4,7 +4,6 @@ import Util.SystemHelper;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.io.File;
@@ -25,38 +24,22 @@ public class DriverFactory {
     /**
      * 生成androidDriver
      */
-    private static void getAndroidDriver(){
+    public static AppiumDriver getAndroidDriver(){
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
-//        capabilities.setCapability("platformName",
-//                "Android");
-//        capabilities.setCapability("platformVersion",
-//                "7.0");
-//        capabilities.setCapability("deviceName",
-//                "SJE0217C28022492");
-//        capabilities.setCapability("app",
-//                "com.mobike.mobikeapp");
-//        capabilities.setCapability("appPackage",
-//                "com.mobike.mobikeapp");
-//        capabilities.setCapability("appActivity",
-//                ".SplashActivity");  //.MainActivity
-
-
         capabilities.setCapability("platformName",
                 "Android");
-//        capabilities.setCapability("platformVersion",
-//                "6.0");
+//        c "6.0");
         capabilities.setCapability("deviceName",
-                "P4M0215713015683"); //192.168.56.101:5555
-        capabilities.setCapability("app",
-                "com.xueqiu.android");
+                "192.168.56.101:5555"); ////192.168.56.101:5555 , P4M0215713015683
         capabilities.setCapability("appPackage",
                 "com.xueqiu.android");
         capabilities.setCapability("appActivity",
-                ".view.WelcomeActivityAlia");  //.MainActivity
-
-
+                ".view.WelcomeActivityAlias");  //.MainActivity
+        capabilities.setCapability("noReset",true);
+        capabilities.setCapability("unicodeKeyboard",true);
+        capabilities.setCapability("resetKeyboard",true);
 
         try {
             //初始化驱动
@@ -68,6 +51,8 @@ public class DriverFactory {
         }
         driver.manage().timeouts()
                 .implicitlyWait(15, TimeUnit.SECONDS);
+
+        return driver;
     }
 
     /**

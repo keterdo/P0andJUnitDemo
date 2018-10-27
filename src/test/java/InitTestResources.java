@@ -21,13 +21,14 @@ public class InitTestResources {
 
         InitProperties.init();
 
-        DriverFactory.getDriver();
-        DriverFactory.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        DriverFactory.getDriver();
+//        DriverFactory.driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
-        Pages.getInstance().initPages(DriverFactory.driver,timeOutDuration);
+        Pages.getInstance().initPages();//DriverFactory.driver,timeOutDuration
 
         Operations.getInstance().initOperations();
+
     }
 
     @Test

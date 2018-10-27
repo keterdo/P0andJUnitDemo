@@ -27,23 +27,17 @@ public class Pages {
         return page;
     }
 
-
-
-
     public static DemoPage demoPage;
     public static MobikePage mobikePage;
     public static NewDemo newDemo;
-
-
-
 
 //    TimeOutDuration timeOutDuration = new TimeOutDuration(5, TimeUnit.SECONDS);
 
     /**
      * 初始化所有页面对象，及其内部元素
      */
-    public static void initPages(AppiumDriver driver,TimeOutDuration timeOutDuration){
-//        System.out.println("in initPages");
+    public static void initPages(){
+        System.out.println("in initPages");
 
         mobikePage = new MobikePage();
         demoPage = new DemoPage();

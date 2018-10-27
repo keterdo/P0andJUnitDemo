@@ -25,7 +25,7 @@ import java.util.concurrent.TimeUnit;
  *
  * @Description:
  */
-public class NewDemo {
+public class NewDemo extends BasePage{
 
 
         @AndroidFindBy(id = "com.xueqiu.android:id/user_profile_icon")
@@ -34,50 +34,50 @@ public class NewDemo {
         @AndroidFindBy(id = "com.xueqiu.android:id/tv_login")
         public AndroidElement login;
 
-        @AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout[1]/android.widget.ImageView")
-        public AndroidElement huzhi;
+//        @AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout[1]/android.widget.ImageView")
+//        public AndroidElement huzhi;
 
-        AppiumDriver driver = null;
-        @Before
-        public void setUp(){
-                DesiredCapabilities capabilities = new DesiredCapabilities();
-
-                capabilities.setCapability("platformName",
-                        "Android");
-//        capabilities.setCapability("platformVersion",
-//                "6.0");
-                capabilities.setCapability("deviceName",
-                        "P4M0215713015683"); //192.168.56.101:5555
-                capabilities.setCapability("app",
-                        "com.xueqiu.android");
-                capabilities.setCapability("appPackage",
-                        "com.xueqiu.android");
-                capabilities.setCapability("appActivity",
-                        ".view.WelcomeActivityAlias");  //.MainActivity
-
-                try {
-                        //初始化驱动
-                        driver = new AndroidDriver(new URL(
-                                "http://127.0.0.1:4723/wd/hub"), capabilities);
-                } catch (MalformedURLException e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
-                }
-                driver.manage().timeouts()
-                        .implicitlyWait(15, TimeUnit.SECONDS);
-
-                //超时时间
-                final int TIMEOUT = 10;
-                TimeOutDuration timeOutDuration = new TimeOutDuration(10, TimeUnit.SECONDS);
-
-                PageFactory.initElements(new AppiumFieldDecorator(driver,timeOutDuration) , this);
-        }
-
-        @Test
-        public void testCase(){
-                myCenter.click();
-                login.click();
-        }
+//        AppiumDriver driver = null;
+//        @Before
+//        public void setUp(){
+//                DesiredCapabilities capabilities = new DesiredCapabilities();
+//
+//                capabilities.setCapability("platformName",
+//                        "Android");
+////        capabilities.setCapability("platformVersion",
+////                "6.0");
+//                capabilities.setCapability("deviceName",
+//                        "P4M0215713015683"); //192.168.56.101:5555
+//                capabilities.setCapability("app",
+//                        "com.xueqiu.android");
+//                capabilities.setCapability("appPackage",
+//                        "com.xueqiu.android");
+//                capabilities.setCapability("appActivity",
+//                        ".view.WelcomeActivityAlias");  //.MainActivity
+//
+//                try {
+//                        //初始化驱动
+//                        driver = new AndroidDriver(new URL(
+//                                "http://127.0.0.1:4723/wd/hub"), capabilities);
+//                } catch (MalformedURLException e) {
+//                        // TODO Auto-generated catch block
+//                        e.printStackTrace();
+//                }
+//                driver.manage().timeouts()
+//                        .implicitlyWait(15, TimeUnit.SECONDS);
+//
+//                //超时时间
+//                final int TIMEOUT = 10;
+//                TimeOutDuration timeOutDuration = new TimeOutDuration(10, TimeUnit.SECONDS);
+//
+//                PageFactory.initElements(new AppiumFieldDecorator(driver,timeOutDuration) , this);
+//        }
+//
+//        @Test
+//        public void testCase(){
+//                myCenter.click();
+//                login.click();
+//        }
 
 
 //

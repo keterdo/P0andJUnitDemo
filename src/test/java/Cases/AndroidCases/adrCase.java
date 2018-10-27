@@ -1,12 +1,7 @@
 package Cases.AndroidCases;
 
 import Case.BaseCase;
-import Driver.DriverFactory;
-import Page.AndroidPages.NewDemo;
-import io.appium.java_client.MobileElement;
-import io.appium.java_client.android.AndroidElement;
-import io.appium.java_client.ios.IOSElement;
-import io.appium.java_client.pagefactory.AndroidFindBy;
+
 import org.junit.Test;
 
 import static Case.BaseCase.operations;
@@ -16,7 +11,7 @@ import static Case.BaseCase.operations;
  *
  * @Description:
  */
-public class adrCase {
+public class adrCase extends BaseCase {
 
 
 
