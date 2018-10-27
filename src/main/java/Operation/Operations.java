@@ -2,6 +2,7 @@ package Operation;
 
 import Operation.AndroidOperation.DemoOperation;
 import Operation.AndroidOperation.MobikeOperation;
+import Operation.AndroidOperation.NewDemoOperation;
 
 /**
  * Created by duzhe on 2018/3/20.
@@ -14,6 +15,7 @@ public class Operations {
 
     public static DemoOperation demoOperation;
     public static MobikeOperation mobikeOperation;
+    public static NewDemoOperation newDemoOperation;
 
     public static Operations getInstance(){
         if(operations == null){
@@ -26,6 +28,7 @@ public class Operations {
     public static void initOperations(){
         demoOperation = new DemoOperation();
         mobikeOperation = new MobikeOperation();
+        newDemoOperation = new NewDemoOperation();
     }
 
 }

@@ -3,6 +3,7 @@ package Page;
 
 import Page.AndroidPages.DemoPage;
 import Page.AndroidPages.MobikePage;
+import Page.AndroidPages.NewDemo;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 import io.appium.java_client.pagefactory.TimeOutDuration;
@@ -31,6 +32,7 @@ public class Pages {
 
     public static DemoPage demoPage;
     public static MobikePage mobikePage;
+    public static NewDemo newDemo;
 
 
 
@@ -45,6 +47,7 @@ public class Pages {
 
         mobikePage = new MobikePage();
         demoPage = new DemoPage();
+        newDemo = new NewDemo();
 
 //        System.out.println("out initPages");
         /**

@@ -29,18 +29,35 @@ public class DriverFactory {
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
+//        capabilities.setCapability("platformName",
+//                "Android");
+//        capabilities.setCapability("platformVersion",
+//                "7.0");
+//        capabilities.setCapability("deviceName",
+//                "SJE0217C28022492");
+//        capabilities.setCapability("app",
+//                "com.mobike.mobikeapp");
+//        capabilities.setCapability("appPackage",
+//                "com.mobike.mobikeapp");
+//        capabilities.setCapability("appActivity",
+//                ".SplashActivity");  //.MainActivity
+
+
         capabilities.setCapability("platformName",
                 "Android");
-        capabilities.setCapability("platformVersion",
-                "7.0");
+//        capabilities.setCapability("platformVersion",
+//                "6.0");
         capabilities.setCapability("deviceName",
-                "SJE0217C28022492");
+                "P4M0215713015683"); //192.168.56.101:5555
         capabilities.setCapability("app",
-                "com.mobike.mobikeapp");
+                "com.xueqiu.android");
         capabilities.setCapability("appPackage",
-                "com.mobike.mobikeapp");
+                "com.xueqiu.android");
         capabilities.setCapability("appActivity",
-                ".SplashActivity");  //.MainActivity
+                ".view.WelcomeActivityAlia");  //.MainActivity
+
+
+
         try {
             //初始化驱动
             driver = new AndroidDriver(new URL(

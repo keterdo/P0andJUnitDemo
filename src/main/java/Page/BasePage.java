@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class BasePage {
 
-    protected static AppiumDriver driver = DriverFactory.getAppiumDriver();
+    public static AppiumDriver driver = DriverFactory.getAppiumDriver();
 
 
     //超时时间

@@ -2,83 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2be98ab6-31d6-45a0-a928-fd7367a4e173" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_23_6_jre.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_6_0_0_BETA4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_java5_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openpnp_opencv_3_2_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_3_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/poDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/properties" beforeDir="false" afterPath="$PROJECT_DIR$/properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Case/BaseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Case/BaseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DemoCategory/AllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnyCategory/AllTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DemoCategory/SmokeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnyCategory/SmokeTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/DemoOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/DemoOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/MobikeOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/MobikeOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Operation/BaseOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operation/BaseOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Operation/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Operation/Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Page/AndroidPages/DemoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page/AndroidPages/DemoPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Util/SystemHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Util/SystemHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Cases/ParameterizedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cases/ParameterizedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Cases/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cases/TestCase1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CategoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CategoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/InitTestResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/InitTestResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JunitSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JunitSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page/Pages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Case/BaseCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Case/BaseCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DemoCategory/AllTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DemoCategory/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DemoCategory/IOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DemoCategory/SmokeTests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Driver/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Driver/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Operation/AndroidOperation/DemoOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operation/AndroidOperation/DemoOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Operation/AndroidOperation/MobikeOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operation/AndroidOperation/MobikeOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Operation/BaseOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operation/BaseOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Operation/Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Operation/Operations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Page/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Page/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Page/AndroidPages/DemoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Page/AndroidPages/DemoPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Page/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Page/Pages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Util/InitProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Util/InitProperties.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Util/SystemHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Util/SystemHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cases/DemoCase3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cases/DemoCase3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cases/ParameterizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cases/ParameterizedDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Cases/TestCase1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cases/TestCase1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cases/TestQunarCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cases/TestQunarCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CategoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CategoryDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/InitTestResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/InitTestResources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JunitSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/JunitSuite.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -94,12 +42,10 @@
       <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+            <state relative-caret-position="250">
+              <caret line="69" column="54" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="69" selection-end-column="54" />
               <folding>
                 <element signature="method#getIosDriver#0;class#DriverFactory#0" />
-                <element signature="method#getDriver#0;class#DriverFactory#0" />
-                <element signature="method#getAppiumDriver#0;class#DriverFactory#0" />
               </folding>
             </state>
           </provider>
@@ -108,8 +54,8 @@
       <file leaf-file-name="DemoOperation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/DemoOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="250">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
               <folding>
                 <element signature="e#497#498#0" expanded="true" />
                 <element signature="e#562#563#0" expanded="true" />
@@ -118,43 +64,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoCase3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java">
+      <file leaf-file-name="NewDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/NewDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestQunarCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Cases/TestQunarCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="82" column="4" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+            <state relative-caret-position="391">
+              <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3056#3057#0" expanded="true" />
-                <element signature="e#3081#3082#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseOperation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Operation/BaseOperation.java">
+      <file leaf-file-name="DemoCase3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InitTestResources.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/InitTestResources.java">
+      <file leaf-file-name="adrCase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+            <state relative-caret-position="198">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pages.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Page/Pages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="49" column="15" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -162,22 +111,8 @@
       <file leaf-file-name="BaseCase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Case/BaseCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JunitSuite.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JunitSuite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="78">
+              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,11 +120,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/AnyCategory/AllTests.java">
+      <file leaf-file-name="Operations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Operation/Operations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="104">
+              <caret line="17" column="51" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewDemoOperation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/NewDemoOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -197,8 +141,8 @@
       <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Page/BasePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="240">
+              <caret line="22" column="80" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -229,9 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Cases/SlowTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SlowTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FastTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/Categories/SlowTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/Categories/FastTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/Cases/CategoriesDemo.java" />
@@ -257,7 +198,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Instrumentation/Appium/AppiumComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instrumentation/Appium/AndroidComponent.java" />
         <option value="$PROJECT_DIR$/src/main/java/Instrumentation/Appium/Button.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Page/Pages.java" />
         <option value="$PROJECT_DIR$/src/main/java/DemoCategory/Android.java" />
         <option value="$PROJECT_DIR$/src/main/java/DemoCategory/IOS.java" />
         <option value="$PROJECT_DIR$/properties" />
@@ -267,19 +207,23 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/DemoOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/MobikeOperation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/Page/AndroidPages/DemoPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/Cases/TestCase1.java" />
         <option value="$PROJECT_DIR$/src/main/java/Page/AndroidPages/MobikePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/Cases/ParameterizedDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Operation/Operations.java" />
         <option value="$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Cases/TestQunarCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Page/BasePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/InitTestResources.java" />
         <option value="$PROJECT_DIR$/src/main/java/Case/BaseCase.java" />
         <option value="$PROJECT_DIR$/src/test/java/JunitSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Cases/TestQunarCar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Page/AndroidPages/NewPage2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Page/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Page/Pages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operation/Operations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/NewDemoOperation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Page/AndroidPages/NewDemo.java" />
       </list>
     </option>
   </component>
@@ -303,8 +247,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,14 +278,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AnyCategory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P0andJUnitDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Case" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -353,14 +287,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P0andJUnitDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Instrumentation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -400,14 +326,6 @@
               <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="P0andJUnitDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="P0andJUnitDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -424,6 +342,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P0andJUnitDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Cases" type="462c0819:PsiDirectoryNode" />
+              <item name="AndroidCases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="P0andJUnitDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -464,6 +391,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -496,7 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestQunarCar.testDemo">
+  <component name="RunManager" selected="JUnit.NewDemo.testCase">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -520,65 +449,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ParameterizedDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NewDemo.testCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="poDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cases.*" />
+          <option name="PATTERN" value="Page.AndroidPages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Cases" />
-      <option name="MAIN_CLASS_NAME" value="Cases.ParameterizedDemo" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ParameterizedDemo.case2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Cases" />
-      <option name="MAIN_CLASS_NAME" value="Cases.ParameterizedDemo" />
-      <option name="METHOD_NAME" value="case2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestCase1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="poDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Cases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="Cases" />
-      <option name="MAIN_CLASS_NAME" value="Cases.TestCase1" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="Page.AndroidPages" />
+      <option name="MAIN_CLASS_NAME" value="Page.AndroidPages.NewDemo" />
+      <option name="METHOD_NAME" value="testCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -628,6 +511,52 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="adrCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cases.AndroidCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Cases.AndroidCases" />
+      <option name="MAIN_CLASS_NAME" value="Cases.AndroidCases.adrCase" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="adrCase.demoXueQiu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cases.AndroidCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Cases.AndroidCases" />
+      <option name="MAIN_CLASS_NAME" value="Cases.AndroidCases.adrCase" />
+      <option name="METHOD_NAME" value="demoXueQiu" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -651,19 +580,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ParameterizedDemo.case2" />
-      <item itemvalue="JUnit.ParameterizedDemo" />
-      <item itemvalue="JUnit.TestCase1.test1" />
       <item itemvalue="JUnit.JunitSuite" />
       <item itemvalue="JUnit.TestQunarCar.testDemo" />
+      <item itemvalue="JUnit.adrCase" />
+      <item itemvalue="JUnit.adrCase.demoXueQiu" />
+      <item itemvalue="JUnit.NewDemo.testCase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NewDemo.testCase" />
+        <item itemvalue="JUnit.adrCase.demoXueQiu" />
+        <item itemvalue="JUnit.adrCase" />
         <item itemvalue="JUnit.TestQunarCar.testDemo" />
         <item itemvalue="JUnit.JunitSuite" />
-        <item itemvalue="JUnit.TestCase1.test1" />
-        <item itemvalue="JUnit.ParameterizedDemo.case2" />
-        <item itemvalue="JUnit.ParameterizedDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -681,54 +610,64 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 07m 07s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 22m 12s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 27m 58s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 34m 12s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 35m 24s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 17h 36m 08s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 18h 20m 21s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JunitSuite - 2018.03.22 at 18h 20m 49s.xml">
-      <configuration name="JunitSuite" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JunitSuite - 2018.03.22 at 18h 24m 54s.xml">
       <configuration name="JunitSuite" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestQunarCar_testDemo - 2018.08.17 at 16h 30m 55s.xml">
       <configuration name="TestQunarCar.testDemo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 45m 36s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 47m 50s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 49m 55s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 51m 58s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 54m 49s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="adrCase_demoXueQiu - 2018.10.27 at 11h 57m 56s.xml">
+      <configuration name="adrCase.demoXueQiu" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewDemo_testCase - 2018.10.27 at 12h 06m 18s.xml">
+      <configuration name="NewDemo.testCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NewDemo_testCase - 2018.10.27 at 12h 08m 03s.xml">
+      <configuration name="NewDemo.testCase" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32935324" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32827586" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.53475934" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39310345" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32889965" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23880596" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33103448" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18477103" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28836834" />
       <window_info id="Learn" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -738,11 +677,40 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32879376" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39310345" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28836834" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935324" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39903265" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33103448" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32889965" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32827586" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -803,13 +771,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/ios/IOSElement.class" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/UnsafeFieldAccessorImpl.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/pagefactory/FieldDecorator.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/pagefactory/DefaultFieldDecorator.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/pagefactory/AppiumFieldDecorator.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.9.1/selenium-support-3.9.1.jar!/org/openqa/selenium/support/PageFactory.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.6-jre/guava-23.6-jre.jar!/com/google/common/primitives/Ints.class">
@@ -896,13 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/android/AndroidElement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/MobileElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -949,16 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Page/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -972,10 +916,135 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/pagefactory/AndroidFindBy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/InitProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InitTestResources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AnyCategory/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/JunitSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="23" column="1" selection-start-line="22" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operation/BaseOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/MobikePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/ParameterizedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/TestCase1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/TestQunarCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/android/AndroidElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/pagefactory/AndroidFindBys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4-sources.jar!/io/appium/java_client/android/AndroidElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4-sources.jar!/io/appium/java_client/pagefactory/AndroidBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4-sources.jar!/io/appium/java_client/pagefactory/AndroidFindBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="84" column="47" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/DemoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/NewPage2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util/SystemHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -990,104 +1059,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Case/BaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Operation/Operations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/TestCase1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/ParameterizedDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#ParameterizedDemo#0;class#ParameterizedDemo#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/6.0.0-BETA4/java-client-6.0.0-BETA4.jar!/io/appium/java_client/pagefactory/AndroidFindBy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/DemoPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/MobikePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Util/InitProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Util/SystemHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Page/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InitTestResources.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="95" selection-start-line="17" selection-start-column="95" selection-end-line="17" selection-end-column="95" />
+        <state relative-caret-position="104">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Driver/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        <state relative-caret-position="250">
+          <caret line="69" column="54" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="69" selection-end-column="54" />
           <folding>
             <element signature="method#getIosDriver#0;class#DriverFactory#0" />
-            <element signature="method#getDriver#0;class#DriverFactory#0" />
-            <element signature="method#getAppiumDriver#0;class#DriverFactory#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/DemoOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="250">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
           <folding>
             <element signature="e#497#498#0" expanded="true" />
             <element signature="e#562#563#0" expanded="true" />
@@ -1095,55 +1104,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Operation/BaseOperation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="80" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/AndroidCases/adrCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Operation/AndroidOperation/NewDemoOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <caret line="14" column="36" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/TestQunarCar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/Pages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="82" column="4" lean-forward="true" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3056#3057#0" expanded="true" />
-            <element signature="e#3081#3082#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Case/BaseCase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Page/AndroidPages/NewDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-            <element signature="e#1058#1059#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AnyCategory/AllTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cases/DemoCase3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JunitSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
